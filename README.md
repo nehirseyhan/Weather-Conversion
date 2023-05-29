@@ -1,4 +1,4 @@
-# Weather-Conversion
+# Weather Conversion
 ## SIMPLE WEATHER CONVERSION <br />
 Gets Fahrenheit weather degree for weekdays (from Mondays to Friday) <br />
 Converts each day's degree to celsius and prints them with the average of the days. <br />
